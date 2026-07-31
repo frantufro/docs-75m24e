@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9matcx.tanzeprintanddesign.co.uk/sitemap.xml
